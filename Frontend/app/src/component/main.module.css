@@ -1,0 +1,22 @@
+.homeimg {
+    width:100%;
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size:100%  700px;
+    background-image: url("https://img.freepik.com/premium-photo/man-with-his-new-scooter-helmet-giving-thums-up-full-size-image_181020-771.jpg?w=2000");
+    color: white;
+    
+}
+
+.nav {
+    display: flex;
+    justify-content: space-around;
+    cursor: pointer;
+}
+.city {
+    width:130px;
+    height:40px;
+    font-size: 20px;
+    margin-top: 20px;
+    cursor: pointer;
+}
